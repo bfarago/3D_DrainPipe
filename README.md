@@ -13,7 +13,7 @@ This project serves as a sandbox to experiment with OpenSCAD, Visual Studio Code
 - **Description**: This file can be opened with the Visual Studio Code OpenSCAD extension and other OpenSCAD tools. It allows parameterization, rendering, and generation of the model.
 
 ## Output File
-- **File Name**: `out/dpModel41.stl` ![Click here to view 3D model in github](out/dpModel41.stl)
+- **File Name**: `out/dpModel41.stl` [Click here to view 3D model in github](out/dpModel41.stl)
 - **Description**: This file can be opened with 3D printer slicer software to prepare for printing.
 
 ## Photos
