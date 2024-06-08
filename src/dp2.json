@@ -1,0 +1,23 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "bottom_thread_diameter": "45.65",
+            "bottom_thread_length": "10",
+            "bspmajor": "1.882",
+            "bsptpi": "11",
+            "chamfer": "0.8",
+            "d": "0.1",
+            "grip_diameter": "48",
+            "grip_height": "7",
+            "grip_offset": "20",
+            "hgt": "23",
+            "maxplane": "180",
+            "sdia": "42.2",
+            "tol": "0.35",
+            "top_thread_diameter": "41",
+            "top_thread_length": "10",
+            "tothgt": "34"
+        }
+    },
+    "fileFormatVersion": "1"
+}
